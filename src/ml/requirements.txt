@@ -1,0 +1,16 @@
+datasets==2.9.0
+https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.4.0/pt_core_news_lg-3.4.0.tar.gz
+matplotlib==3.5.3
+mlflow==2.1.1
+numpy==1.23.5
+pandas==1.5.2
+pydantic==1.8.2
+sagemaker==2.130.0
+scikit-learn==1.2.1
+seaborn==0.11.2
+spacy[cuda-autodetect]==3.4.1
+spacymoji==3.0.1
+thinc==8.1.7
+tokenizers==0.13.2
+transformers==4.26.1
+huggingface_hub==0.12.0
