@@ -3,6 +3,6 @@ boto3==1.26.69
 fastapi[all]==0.141.1
 kaggle==1.5.12
 uvicorn==0.20.0
-torch==1.13.1+cu116
+torch==1.13.1+cu16
 torchvision==0.28.0
 torchaudio==0.13.1+cu116
