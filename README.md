@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# ToChiquinho
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DougTrajano_ToChiquinho&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DougTrajano_ToChiquinho)
+# Toxicity in OLID-BR (ToChiquinho)
 
 ToChiquinho is a toxicity detection system for Brazilian Portuguese texts based on the [OLID-BR](https://github.com/DougTrajano/olid-br/) dataset.
 
@@ -114,11 +111,3 @@ To run the tests, you can run the following command in the root directory:
 ```bash
 pytest
 ```
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-=======
-# Toxicity-OLIDBR-
-AI Model de detecção de toxicidade para textos em português brasileiro baseado no conjunto de dados OLID-BR.
->>>>>>> cf938edbeef9e1fdf391d055d8b5d629ecc8f9f9
